@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-23T12:23:31 CEST" name="Default suite" finished-at="2023-04-23T12:23:41 CEST" duration-ms="9857">
+    <groups>
+    </groups>
+    <test started-at="2023-04-23T12:23:31 CEST" name="Default test" finished-at="2023-04-23T12:23:41 CEST" duration-ms="9857">
+      <class name="com.brvnarealavrdnik.FacebookLinkTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.brvnarealavrdnik.FacebookLinkTest@316bcf94]" started-at="2023-04-23T12:23:32 CEST" name="setup" finished-at="2023-04-23T12:23:34 CEST" duration-ms="2657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="facebookTest()[pri:0, instance:com.brvnarealavrdnik.FacebookLinkTest@316bcf94]" started-at="2023-04-23T12:23:34 CEST" name="facebookTest" finished-at="2023-04-23T12:23:41 CEST" duration-ms="6407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.brvnarealavrdnik.FacebookLinkTest@316bcf94]" started-at="2023-04-23T12:23:41 CEST" name="tearDown" finished-at="2023-04-23T12:23:41 CEST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.brvnarealavrdnik.FacebookLinkTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
